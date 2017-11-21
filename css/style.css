@@ -41,7 +41,7 @@ body {
 .cover p a {
   color: #fff;
   text-decoration: none;
-  transform: .1s all linear;
+  transition: .1s all linear;
   border: 3px #fff solid;
   border-radius: 50px;
   padding: 20px 40px;
